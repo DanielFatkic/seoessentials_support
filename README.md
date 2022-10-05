@@ -1,1 +1,1 @@
-# seoessentials_support
+# SEO Essentials Support Repository
