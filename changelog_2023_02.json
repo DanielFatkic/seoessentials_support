@@ -1,0 +1,12 @@
+{
+  "New Features & Changes": [
+    "Updated the 404 Blacklist",
+    "Optimized the 404 Error Log page and removed the details icon if there are no ref details",
+    "New Health Page Design",
+    "New ACP Landing Page",
+    "Removed the background task for big boards"
+  ],
+  "Fixed Bugs": [
+    "Fixed the broken links log."
+  ]
+}
